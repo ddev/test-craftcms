@@ -1,0 +1,9 @@
+baseUrl: $PRIMARY_SITE_URL
+enabled: true
+handle: default
+hasUrls: true
+language: en
+name: $DDEV_PRIMARY_URL
+primary: true
+siteGroup: cd06a5a5-6485-4047-9fa0-589d856da184 # demo
+sortOrder: 1

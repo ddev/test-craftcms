@@ -1,0 +1,32 @@
+dateModified: 1763434522
+email:
+  fromEmail: admin@example.com
+  fromName: demo
+  transportType: craft\mail\transportadapters\Sendmail
+fs:
+  yyy:
+    hasUrls: false
+    name: yyy
+    settings:
+      path: $DDEV_FILES_DIR
+    type: craft\fs\Local
+    url: null
+meta:
+  __names__:
+    6c5818f2-52de-49d6-ac1a-50c045f62ce7: $DDEV_PRIMARY_URL # $DDEV_PRIMARY_URL
+    3541fcb2-6c17-4ebe-8999-69279a0ca5c6: xxx # xxx
+    cd06a5a5-6485-4047-9fa0-589d856da184: demo # demo
+system:
+  edition: solo
+  live: true
+  name: $DDEV_PRIMARY_URL
+  retryDuration: null
+  schemaVersion: 5.8.0.3
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  require2fa: false
+  requireEmailVerification: true
